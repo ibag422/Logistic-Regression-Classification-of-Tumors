@@ -1,4 +1,4 @@
-# malignant-benign-tumor-classification
+# Logistic Regression Classification -- Machine Learning
 From UCI Machine Learning Depository, Breast Cancer Wisconsin (Prognostic) Data Set
 
 Pseudo-APA reference: Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
